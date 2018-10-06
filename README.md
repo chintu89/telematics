@@ -1,7 +1,12 @@
 #Telematics solution
 
 *************************************************************************************************************************************************************************
-					README - TELEMATICS (Environment settings)
+This is a solution to retrieve data from torque android app configured for an ELM27 (OBD II) device. With this solution, you could retrieve car metrics and work on it as per your requirement.
+
+Prerequisites for using this solution
+1. OBD II device need to be connected to your car.
+2. Torque app should connect to this OBD device through bluetooth.
+3. In Torque app, you could direct data to the server url/info.php - http://localhost/info.php
 
 *************************************************************************************************************************************************************************
 
