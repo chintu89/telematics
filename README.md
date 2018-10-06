@@ -24,7 +24,7 @@ https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mys
 
     sudo ufw app list
 
-sudo ufw app info "Apache Full"	//If you look at the Apache Full profile, it should show that it enables traffic to ports 80 and 443
+	sudo ufw app info "Apache Full"	//If you look at the Apache Full profile, it should show that it enables traffic to ports 80 and 443
 
 
 http://your_server_IP_address	// Apache home page should load
