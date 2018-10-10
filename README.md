@@ -6,7 +6,7 @@ This is a solution to retrieve data from torque android app configured for an EL
 Prerequisites for using this solution
 1. OBD II device need to be connected to your car.
 2. Torque app should connect to this OBD device through bluetooth.
-3. In Torque app, you could direct data to the server url/info.php - http://localhost/info.php
+3. In Torque app, you could direct data to the server url/load.php - http://localhost/load.php
 
 *************************************************************************************************************************************************************************
 
